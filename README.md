@@ -201,8 +201,3 @@ Core logic:
 - Never paste API keys into code, chats, issues, or screenshots. If a key is exposed, revoke it in Google AI Studio and create a new one.
 - The server has no authentication or rate limiting. Add both before exposing it to the public internet.
 
-## License & Docs
-
-- Documentation: `<link-to-docs>`
-- License: `<link-to-LICENSE>` (for example, MIT)
-- Issues: `<link-to-issues>`
